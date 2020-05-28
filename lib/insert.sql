@@ -6,4 +6,5 @@ VALUES
   (Segeant Brown, 45, male, blue, 0),
   (Melissa, 21, female, white, 1),
   (Grinch, 30, male, beige, 0),
-  (Wendy, 22, female, purple, 1);
+  (Wendy, 22, female, purple, 1),
+  (NULL, 33, male, green, 0);
